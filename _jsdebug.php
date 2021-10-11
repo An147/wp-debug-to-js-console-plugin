@@ -4,7 +4,7 @@ Plugin Name: JS Console Debugger
 Description: Output any PHP expression to browser JS console!
 Author: Andrei Sirant
 Version: 1.0.0
-Author URI: https://nooby-games.ru/
+Author URI: https://github.com/An147
 Text Domain: jsdebug
 */
 
